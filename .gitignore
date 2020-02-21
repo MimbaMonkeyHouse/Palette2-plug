@@ -1,0 +1,6 @@
+*.pyc
+.vscode
+prepros-6.config
+.DS_Store
+test.py
+.idea
